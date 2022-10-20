@@ -1,6 +1,6 @@
 printing
 printOn: aStream
 
-   aStream nextPutAll: 'Squre['.
+   aStream nextPutAll: 'Square['.
 	self a printOn: aStream.
 	aStream nextPut: $]

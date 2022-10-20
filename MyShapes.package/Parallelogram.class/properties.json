@@ -1,11 +1,16 @@
 {
 	"commentStamp" : "",
-	"super" : "Parallelogram",
+	"super" : "FlatShape",
 	"category" : "MyShapes",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Rect",
+	"instvars" : [
+		"a",
+		"b",
+		"sinA",
+		"s"
+	],
+	"name" : "Parallelogram",
 	"type" : "normal"
 }

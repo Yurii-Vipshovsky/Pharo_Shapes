@@ -1,1 +1,1 @@
-Class for circle representation
+Class for circle representation with Radius r as a subclass of FlatShape

@@ -1,3 +1,5 @@
 initialization
 initialize 
- a := 5. self b: 5.
+ a := 5. 
+ b := 5. 
+ self sinA: 1.
