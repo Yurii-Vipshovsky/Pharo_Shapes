@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FlatShape",
+	"category" : "MyShapes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"r"
+	],
+	"name" : "Circle",
+	"type" : "normal"
+}

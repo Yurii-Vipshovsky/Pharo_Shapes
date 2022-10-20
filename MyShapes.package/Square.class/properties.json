@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Rect",
+	"category" : "MyShapes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Square",
+	"type" : "normal"
+}

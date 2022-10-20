@@ -1,0 +1,3 @@
+calculating
+perimeter 
+^ self subclassResponsibility 
