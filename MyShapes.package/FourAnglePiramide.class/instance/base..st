@@ -1,4 +1,4 @@
 accessing
-base: aParallelogram
+base: aFourAngleShape
 "Can be circle now Need to fix"
-  base:=aParallelogram.
+  base:=aFourAngleShape.

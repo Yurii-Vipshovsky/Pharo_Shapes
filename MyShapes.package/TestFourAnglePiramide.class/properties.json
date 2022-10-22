@@ -1,16 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "FourAngleShape",
+	"super" : "TestCase",
 	"category" : "MyShapes",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"a",
-		"b",
-		"sinA",
-		"s"
-	],
-	"name" : "Parallelogram",
+	"instvars" : [ ],
+	"name" : "TestFourAnglePiramide",
 	"type" : "normal"
 }

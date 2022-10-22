@@ -1,0 +1,3 @@
+calculating
+square 
+^ self subclassResponsibility 
