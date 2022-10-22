@@ -1,0 +1,1 @@
+basic class for volume shapes implementation.
