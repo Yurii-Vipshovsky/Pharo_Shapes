@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "FlatShape",
+	"category" : "MyShapes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"a",
+		"b",
+		"sinA"
+	],
+	"name" : "Triangle",
+	"type" : "normal"
+}
