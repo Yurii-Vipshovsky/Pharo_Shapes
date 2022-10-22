@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "VolumeShape",
+	"category" : "MyShapes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rect_base",
+		"h"
+	],
+	"name" : "Cuboid",
+	"type" : "normal"
+}

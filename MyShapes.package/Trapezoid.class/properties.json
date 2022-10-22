@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "FourAngleShape",
+	"category" : "MyShapes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"a",
+		"b",
+		"c",
+		"d"
+	],
+	"name" : "Trapezoid",
+	"type" : "normal"
+}
