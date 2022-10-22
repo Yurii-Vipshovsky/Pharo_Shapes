@@ -1,3 +1,0 @@
-accessing
-baseSquare
-	^base square. 

@@ -1,5 +1,6 @@
 accessing
 printOn: aStream
+	super printOn: aStream.
    aStream nextPutAll: 'Cone[ whith '.
 	base printOn: aStream.
 	aStream nextPutAll: ' in base and h = '.

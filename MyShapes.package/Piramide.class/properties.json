@@ -1,11 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Prism",
+	"super" : "VolumeShape",
 	"category" : "MyShapes",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Cylinder",
+	"instvars" : [
+		"base",
+		"h"
+	],
+	"name" : "Piramide",
 	"type" : "normal"
 }

@@ -1,5 +1,6 @@
 printing
 printOn: aStream
+	super printOn: aStream.
    aStream nextPutAll: 'Cylinder[ whith '.
 	base printOn: aStream.
 	aStream nextPutAll: ' in base and h = '.

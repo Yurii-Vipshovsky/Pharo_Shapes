@@ -1,14 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "VolumeShape",
+	"super" : "Prism",
 	"category" : "MyShapes",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"base",
-		"h"
-	],
+	"instvars" : [ ],
 	"name" : "TriangularPrism",
 	"type" : "normal"
 }

@@ -1,4 +1,4 @@
-accessing
-initialize 
-	base := Circle new.
-	h:=1.
+initialization
+initialize
+	super initialize.
+	base:= Circle new.

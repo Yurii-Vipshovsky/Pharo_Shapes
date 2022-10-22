@@ -1,4 +1,4 @@
 initialization
 initialize
+	super initialize.
 	base:= Trapezoid new.
-	h:=1.
