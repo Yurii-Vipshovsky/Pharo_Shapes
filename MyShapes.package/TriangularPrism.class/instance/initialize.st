@@ -1,4 +1,4 @@
 initialization
 initialize
-	base:= Trapezoid new.
+	base:= Triangle new.
 	h:=1.

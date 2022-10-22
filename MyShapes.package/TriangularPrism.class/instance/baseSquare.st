@@ -1,3 +1,3 @@
 accessing
 baseSquare
-	^(base square). 
+	^base square. 
