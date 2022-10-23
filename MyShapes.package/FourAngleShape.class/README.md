@@ -1,0 +1,1 @@
+An abstract class used to contain all four angle shapes

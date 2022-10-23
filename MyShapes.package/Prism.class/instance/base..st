@@ -1,3 +1,3 @@
 accessing
-base: aTraperoid
-  base:=aTraperoid.
+base: aFlatShape
+  base := aFlatShape.
