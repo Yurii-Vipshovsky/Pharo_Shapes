@@ -1,4 +1,4 @@
 accessing
 initialize
-	super initialize.
+	h:=1.
 	base:= Triangle new.

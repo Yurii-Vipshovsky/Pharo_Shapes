@@ -1,4 +1,4 @@
 initialization
 initialize
-	super initialize.
+	h:=1.
 	base:= Circle new.
